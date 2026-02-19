@@ -65,7 +65,27 @@ EDA • ETL • Data Cleaning
 ---
 
 ## 📧 Contact
-📩 Email: **sami.stat.512@gmail.com**  
-💬 WhatsApp: **https://wa.me/966593626221**  
-🔗 LinkedIn: **linkedin.com/in/samiullah-statistics**  
-🐙 GitHub: **github.com/samiullah512**
+
+<p align="center">
+
+  <!-- Email -->
+  <a href="mailto:sami.stat.512@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/966593626221">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/samiullah-statistics">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/samiullah512">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </a>
+
+</p>
