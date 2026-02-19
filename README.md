@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Samiullah</h1>
-<h3 align="center">Data Analyst • Statistician • MPhil in Statistics</h3>
+<h1 align="center" style="color:#58a6ff;">🌙 Samiullah</h1>
+<h3 align="center" style="color:#c9d1d9;">Data Analyst • Statistician • MPhil in Statistics</h3>
 
 <p align="center">
 
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
 
-  <!-- Statistical Tools -->
+<!-- Statistical Tools -->
   <img src="https://img.shields.io/badge/SPSS-003B57?logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/Minitab-005C5C?logo=minitab&logoColor=white" />
 
@@ -35,17 +35,16 @@
 ---
 
 ## 🧠 About Me
-Data Analyst with 3+ years of experience in SQL, Python, R, BI dashboards, and predictive modeling.  
-I specialize in transforming raw data into insights using statistical analysis, machine learning, and automated reporting workflows.
+Data Analyst with experience in SQL, Python, R, BI dashboards, and predictive modeling.  
+I focus on clean data pipelines, statistical analysis, and building insights that support decision‑making.
 
 ---
 
 ## 🔧 Core Skills
-**Languages:** Python, R, SQL, BigQuery, MySQL  
-**Analytics:** EDA, ETL, Data Cleaning, Predictive Modeling  
-**Visualization:** Power BI, Tableau, Excel  
-**ML/Stats:** Regression, Classification, Time Series, Neural Networks  
-**Tools:** SPSS, Minitab, Jupyter, VS Code  
+Python • R • SQL • BigQuery  
+Power BI • Tableau • Excel  
+Regression • Classification • Time Series  
+EDA • ETL • Data Cleaning  
 
 ---
 
@@ -55,18 +54,18 @@ I specialize in transforming raw data into insights using statistical analysis, 
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiullah512&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samiullah512&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
 ## 📧 Contact
 📩 Email: **sami.stat.512@gmail.com**  
 💬 WhatsApp: **https://wa.me/966593626221**  
 🔗 LinkedIn: **linkedin.com/in/samiullah-statistics**  
 🐙 GitHub: **github.com/samiullah512**
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiullah512&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samiullah512&show_icons=true&theme=dark" />
-</p>
