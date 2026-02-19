@@ -41,10 +41,30 @@ I focus on clean data pipelines, statistical analysis, and building insights tha
 ---
 
 ## 🔧 Core Skills
-Python • R • SQL • BigQuery  
-Power BI • Tableau • Excel  
-Regression • Classification • Time Series  
-EDA • ETL • Data Cleaning  
+
+### **Data Analysis Skills**
+- SQL • BigQuery • MySQL  
+- Data Cleaning • ETL • Data Wrangling  
+- Exploratory Data Analysis (EDA)  
+- KPI Reporting • Dashboard Development  
+- Power BI • Tableau • Excel  
+- Reporting Automation  
+
+### **Data Science Skills**
+- Python • R  
+- Machine Learning (Regression, Classification, Clustering)  
+- Time Series Forecasting (ARIMA, Prophet, LSTM)  
+- Feature Engineering • Feature Selection  
+- Neural Networks • TensorFlow • Scikit‑Learn  
+- Model Evaluation (RMSE, MAE, AUC, Precision/Recall)  
+
+### **Statistics Skills**
+- Statistical Modeling • Probability Theory  
+- Hypothesis Testing • ANOVA • Chi‑Square  
+- Regression Analysis (Linear, Logistic, Multivariate)  
+- Sampling Techniques • Experimental Design (DOE)  
+- Statistical Inference • Confidence Intervals  
+- SPSS • Minitab • Advanced R Statistical Packages  
 
 ---
 
